@@ -1,4 +1,4 @@
-[![My Skills](https://skillicons.dev/icons?i=react,django,ts,js,jquery,py,materialui,sqlite,mysql,mongodb,bootstrap,html,css,cs,nginx,nodejs,nextjs,vite,npm,git,github,linux,bash,postman,redis,vscode,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,django,ts,js,jquery,py,materialui,sqlite,mysql,postgres,mongodb,bootstrap,html,css,cs,nginx,nodejs,nextjs,vite,npm,git,github,linux,bash,postman,redis,vscode,windows)](https://skillicons.dev)
 
 <!--
 **Mohammadrzn/Mohammadrzn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
