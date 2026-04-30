@@ -1,5 +1,8 @@
 [![My Skills](https://skillicons.dev/icons?i=react,django,ts,js,jquery,py,materialui,sqlite,mysql,postgres,mongodb,bootstrap,html,css,cs,nginx,nodejs,nextjs,vite,npm,git,github,linux,bash,postman,redis,vscode,windows,docker)](https://skillicons.dev)
 
+## 📈 GitHub Stats
+![Mohammadrzn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohammadrzn&show_icons=true&theme=radical)
+
 <!--
 **Mohammadrzn/Mohammadrzn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
